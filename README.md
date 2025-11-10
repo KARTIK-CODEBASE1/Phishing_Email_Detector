@@ -1,4 +1,4 @@
-# Phishing_email-detector
+# Phishing_email_detector
 A simple Python script that scans email text for common phishing keywords and alerts users to potential scams.
 
 This beginner-friendly Python project helps detect possible phishing attempts by analyzing email text for suspicious words and phrases.
